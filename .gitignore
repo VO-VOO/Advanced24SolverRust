@@ -1,1 +1,6 @@
 /target
+/rust/target
+/python/.venv
+/python/build
+/python/src
+/python/solver.c
